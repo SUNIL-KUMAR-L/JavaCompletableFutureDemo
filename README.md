@@ -2,6 +2,8 @@
 
 ## Merge results of parallel service requests using CompletableFuture
 
+published at https://dev.to/sunilkumarl/merge-results-of-parallel-service-requests-using-completablefuture-40no
+
 **Step by Step Guide**
 
 _Approach 1_ : Plain old simple java way
